@@ -1,0 +1,3 @@
+ipython-display-examples
+numpy==1.15.4
+matplotlib==2.2.3
